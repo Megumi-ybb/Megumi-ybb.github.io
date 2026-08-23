@@ -1,0 +1,15 @@
+# Codex and local agent working files
+.codex/
+.agents/
+AGENTS.md
+MEMORY.md
+quality_reports/
+task_plan.md
+findings.md
+progress.md
+
+# Private source CV; replace with a phone-free copy under assets/pdf/ before publishing
+Bo_Yang_cv.pdf
+
+# Local OS metadata
+.DS_Store
